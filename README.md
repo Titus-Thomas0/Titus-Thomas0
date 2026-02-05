@@ -1,17 +1,18 @@
 # Titus Thomas
 
-**`Java Full-Stack DDeveloper | LabVIEW Developer | Mechatronics Engineering | Computer Application`**
+**`Java Full-Stack Developer | LabVIEW Developer | Mechatronics Engineering | Computer Applications`**
 
 ---
 
 ## 🚀 About Me
 
-👨‍💻 Engineer with **5+ years of experience** in **Hardware Interface & Test Automation**  
-🧪 **2+ years in LabVIEW Development**  
-💻 Transitioning into **Java Full-Stack Development**  
-⚙️ Strong at bridging **hardware, automation, and modern software**
+Results-driven Engineer with **5+ years of experience** in **Hardware Interface, Test Automation, and Production Validation**, combined with **2+ years of LabVIEW development**.
 
-I enjoy building **reliable systems**, optimizing test workflows, and learning new technologies that solve real-world problems.
+Currently transitioning into **Java Full-Stack Development**, with hands-on experience building backend services using **Java, Spring Boot, and MySQL**, and frontend interfaces using **React JS**.
+
+Strong at **bridging hardware, automation, and software systems**, improving test efficiency, reducing cycle time, and delivering reliable engineering solutions in production environments.
+
+Actively upskilling in **Data Structures, System Design, and modern backend development** to build scalable, maintainable applications.
 
 ---
 
@@ -19,7 +20,7 @@ I enjoy building **reliable systems**, optimizing test workflows, and learning n
 
 ### 👨‍💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Automation & Hardware
@@ -31,29 +32,26 @@ I enjoy building **reliable systems**, optimizing test workflows, and learning n
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,bootstrap&theme=dark" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titus-Thomas0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+> Consistency over vanity stats.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titus-Thomas0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Titus-Thomas0&theme=github-dark)
 
 ---
 
-## 📌 Currently Focused On
-- Java & Spring Boot backend development  
-- React-based frontend applications  
-- Data Structures & System Design  
-- Automation + software integration projects  
+## 📌 What I’m Currently Working On
+
+- 🔹 Java & Spring Boot backend projects  
+- 🔹 React-based frontend applications  
+- 🔹 Data Structures & Core CS fundamentals  
+- 🔹 Automation + software integration solutions  
 
 ---
 
@@ -63,11 +61,11 @@ I enjoy building **reliable systems**, optimizing test workflows, and learning n
   <a href="https://www.linkedin.com/in/titus-thomas">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/titus-thomas">
+  <a href="https://github.com/Titus-Thomas0">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**
+⭐ **If you find my work useful, consider starring my repositories!**
