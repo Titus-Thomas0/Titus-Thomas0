@@ -40,9 +40,9 @@ Actively upskilling in **Data Structures, System Design, and modern backend deve
 
 ## 📊 GitHub Activity
 
-> Consistency over vanity stats.
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Titus-Thomas0&theme=github-dark)
+![](https://github-readme-stats.vercel.app/api?username=Titus-Thomas0&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Titus-Thomas0&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titus-Thomas0&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
