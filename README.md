@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titus-Thomas0&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Titus-Thomas0's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Titus-Thomas0&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Titus-Thomas0's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Titus-Thomas0&theme=dracula&hide_border=true&cache_seconds=86400" alt="Titus-Thomas0's GitHub Streak" width="49%" />
 </p>
 <p align="center">
